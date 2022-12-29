@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nf/vT+mo7nwIrx36vkTABRW/0uzGlHsjZTcudOT03eHfzIE6pXreZuXnNyXQgzmdQehxg5DNp0twOi9MsNUHcA==",
+  "success": true,
+  "projectFilePath": "/mnt/storage/Documents/advent-of-code/2022/day2/part2/part2.csproj",
+  "expectedPackageFiles": [
+    "/home/tnkpad/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

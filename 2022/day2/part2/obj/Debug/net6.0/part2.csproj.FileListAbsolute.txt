@@ -1,0 +1,15 @@
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.csproj.AssemblyReference.cache
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.AssemblyInfoInputs.cache
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.AssemblyInfo.cs
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.csproj.CoreCompileInputs.cache
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/part2
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/part2.deps.json
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/part2.runtimeconfig.json
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/part2.dll
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/ref/part2.dll
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/bin/Debug/net6.0/part2.pdb
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.dll
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/ref/part2.dll
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.pdb
+/mnt/storage/Documents/advent-of-code/2022/day2/part2/obj/Debug/net6.0/part2.genruntimeconfig.cache
